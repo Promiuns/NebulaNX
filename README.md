@@ -1,6 +1,7 @@
 # NebulaNX
-A lightweight interpreted programming language made in Swift by **Ryan (Promiuns)**.  
+A lightweight interpreted programming language made in Swift by **Ryan**.  
 NebulaNX is designed to make **code feel human** — clean, visual, and readable.
+Also I'm 12.
 
 ---
 
